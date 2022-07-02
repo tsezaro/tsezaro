@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub profile 👋
 
-- 📚 Software Developer student - Universidad Nacional de San Martín (UNSAM)
+- 📚 Software Developer Student - Universidad Nacional de San Martín (UNSAM)
 - 💻 Diploma Full Stack Developer - Universidad Tecnológica Nacional (UTN) (In progress)
 
 ##
