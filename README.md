@@ -1,7 +1,6 @@
 # Hi, I´m Tomás ~
 
-## Welcome to my GitHub profile 👋
-<img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" height="35px" />
+## Welcome to my GitHub profile <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" height="35px" />
 
 - 📚 Software Developer Student - Universidad Nacional de San Martín (UNSAM)
 - 💻 Diploma Full Stack Developer - Universidad Tecnológica Nacional (UTN) (In progress)
