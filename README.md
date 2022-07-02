@@ -1,7 +1,7 @@
 # Hi, I´m Tomás <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" height="35px" />
 
 Welcome to my GitHub profile.
-I'm Tomás, Software developer full stack from <b>Buenos Aires, Argentina</b><img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Argentina-Animated.gif" width="13px" />
+I'm Tomás, Software developer full stack from <b>Buenos Aires, Argentina</b><img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Argentina-Animated.gif" width="13px" height="13px"/>
 
 ##
 ### <u>EDUCATION</u>
