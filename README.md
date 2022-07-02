@@ -2,8 +2,8 @@
 
 ## Welcome to my GitHub profile 👋
 
-- 📚 Estudiante de Programación Informática - Universidad Nacional de San Martín
-- 💻 Diplomatura Full Stack Developer - UTN (En Curso)
+- 📚 Software Developer student - Universidad Nacional de San Martín (UNSAM)
+- 💻 Diploma Full Stack Developer - Universidad Tecnológica Nacional (UTN) (In progress)
 
 ##
 ### SKILLS
