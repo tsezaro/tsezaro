@@ -17,6 +17,7 @@
   <a href="https://www.instagram.com/tomas_sezaro/?hl=es-la" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "sezaro.tomas94@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tomas-sezaro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=541130961105&text=Software%20Developer%20" target="_blank"><img src="https://icongr.am/jam/whatsapp.svg?size=128&color=1fbd63" target="_blank"></a> 
 </div>
 
 ##
