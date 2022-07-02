@@ -1,4 +1,4 @@
-# Hi, i´m Tomás Sezaro ~
+# Hi, I´m Tomás ~
 
 ## Welcome to my GitHub profile 👋
 
