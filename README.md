@@ -14,15 +14,10 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="40" height="40"/> 
 
-##
-<div>
-  <a href="https://github.com/camilafernanda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilafernanda&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilafernanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
 
 ##
-### Contatos:
+### Contactame:
 <div align="center"> 
   <a href="https://www.instagram.com/tomas_sezaro/?hl=es-la" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:sezaro.tomas94@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
