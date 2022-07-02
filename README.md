@@ -3,7 +3,9 @@
 Welcome to my GitHub profile.
 I'm Tomás, Software developer full stack from <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/512px/1f1e6-1f1f7.png" width="20px"/> Buenos Aires, Argentina.
 
-####
+##
+### EDUCATION
+
 - 📚 Software Developer Student - Universidad Nacional de San Martín (UNSAM)
 - 💻 Diploma Full Stack Developer - Universidad Tecnológica Nacional (UTN) (In progress)
 
