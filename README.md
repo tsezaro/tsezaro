@@ -7,7 +7,7 @@ I'm Tomás, Software developer full stack from <b>Buenos Aires, Argentina</b> <i
 ### <u>EDUCATION</u>
 
 - 📚 Software Developer Student - Universidad Nacional de San Martín (UNSAM)
-- 💻 Diploma Full Stack Developer - Universidad Tecnológica Nacional (UTN) (In progress)
+- 💻 Full Stack Developer - Universidad Tecnológica Nacional (UTN) (In progress)
 
 ##
 ### <u>SKILLS</u>
